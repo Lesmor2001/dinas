@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dinas/static/css/main.4e3ca00c.chunk.css",
+    "main.js": "/dinas/static/js/main.7f9d45b0.chunk.js",
+    "main.js.map": "/dinas/static/js/main.7f9d45b0.chunk.js.map",
+    "runtime-main.js": "/dinas/static/js/runtime-main.166515cb.js",
+    "runtime-main.js.map": "/dinas/static/js/runtime-main.166515cb.js.map",
+    "static/css/2.e092a416.chunk.css": "/dinas/static/css/2.e092a416.chunk.css",
+    "static/js/2.636c7ce5.chunk.js": "/dinas/static/js/2.636c7ce5.chunk.js",
+    "static/js/2.636c7ce5.chunk.js.map": "/dinas/static/js/2.636c7ce5.chunk.js.map",
+    "index.html": "/dinas/index.html",
+    "precache-manifest.ee11b7b9158d2b027bb6357822295db5.js": "/dinas/precache-manifest.ee11b7b9158d2b027bb6357822295db5.js",
+    "service-worker.js": "/dinas/service-worker.js",
+    "static/css/2.e092a416.chunk.css.map": "/dinas/static/css/2.e092a416.chunk.css.map",
+    "static/css/main.4e3ca00c.chunk.css.map": "/dinas/static/css/main.4e3ca00c.chunk.css.map",
+    "static/js/2.636c7ce5.chunk.js.LICENSE.txt": "/dinas/static/js/2.636c7ce5.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/dinas/static/media/calibrib.b8f9d2aa.woff2",
+    "static/media/MainPage.module.css": "/dinas/static/media/index-sale.f22f6f2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166515cb.js",
+    "static/css/2.e092a416.chunk.css",
+    "static/js/2.636c7ce5.chunk.js",
+    "static/css/main.4e3ca00c.chunk.css",
+    "static/js/main.7f9d45b0.chunk.js"
+  ]
+}
