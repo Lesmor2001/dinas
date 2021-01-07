@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.508c3e33.chunk.css",
+    "main.js": "./static/js/main.a3d08cc4.chunk.js",
+    "main.js.map": "./static/js/main.a3d08cc4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8e8830eb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8e8830eb.js.map",
+    "static/css/2.e092a416.chunk.css": "./static/css/2.e092a416.chunk.css",
+    "static/js/2.636c7ce5.chunk.js": "./static/js/2.636c7ce5.chunk.js",
+    "static/js/2.636c7ce5.chunk.js.map": "./static/js/2.636c7ce5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fb93d15a3863010c464591b6de640737.js": "./precache-manifest.fb93d15a3863010c464591b6de640737.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.e092a416.chunk.css.map": "./static/css/2.e092a416.chunk.css.map",
+    "static/css/main.508c3e33.chunk.css.map": "./static/css/main.508c3e33.chunk.css.map",
+    "static/js/2.636c7ce5.chunk.js.LICENSE.txt": "./static/js/2.636c7ce5.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "./static/media/calibrib.b8f9d2aa.woff2",
+    "static/media/MainPage.module.css": "./static/media/index-sale.f22f6f2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e8830eb.js",
+    "static/css/2.e092a416.chunk.css",
+    "static/js/2.636c7ce5.chunk.js",
+    "static/css/main.508c3e33.chunk.css",
+    "static/js/main.a3d08cc4.chunk.js"
+  ]
+}
